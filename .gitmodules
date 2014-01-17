@@ -1,3 +1,6 @@
 [submodule "dbmikus"]
 	path = dbmikus
 	url = git://github.com/dbmikus/sp2014.11-731
+[submodule "Anna"]
+	path = Anna
+	url = git://github.com/Anttthea/sp2014.11-731.git
