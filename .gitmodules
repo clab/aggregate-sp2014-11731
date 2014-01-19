@@ -4,3 +4,6 @@
 [submodule "Anna"]
 	path = Anna
 	url = git://github.com/Anttthea/sp2014.11-731.git
+[submodule "kartikgo"]
+	path = kartikgo
+	url = git://github.com/kartikgo/sp2014.11-731
