@@ -7,3 +7,6 @@
 [submodule "kartikgo"]
 	path = kartikgo
 	url = git://github.com/kartikgo/sp2014.11-731
+[submodule "pdasigi"]
+	path = pdasigi
+	url = https://github.com/pdasigi/sp2014.11-731.git
