@@ -7,3 +7,6 @@
 [submodule "<del>broken</del>"]
 	path = <del>broken</del>
 	url = git://github.com/kartikgo/sp2014.11-731
+[submodule "kartikgo"]
+	path = kartikgo
+	url = git://github.com/kartikgo/sp2014.11-731
