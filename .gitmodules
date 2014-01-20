@@ -25,3 +25,6 @@
 [submodule "hanz"]
 	path = hanz
 	url = https://github.com/michaelzhhan1990/sp2014.11-731.git
+[submodule "mpiergal"]
+	path = mpiergal
+	url = https://github.com/MarioPiergallini/sp2014.11-731.git
