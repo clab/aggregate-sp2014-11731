@@ -22,3 +22,6 @@
 [submodule "abhimank"]
 	path = abhimank
 	url = https://github.com/abhimanu/sp2014.11-731
+[submodule "hanz"]
+	path = hanz
+	url = https://github.com/michaelzhhan1990/sp2014.11-731.git
