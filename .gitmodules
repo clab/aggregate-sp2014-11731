@@ -13,3 +13,12 @@
 [submodule "drayson"]
 	path = drayson
 	url = git://github.com/drayson92/sp2014.11-731.git
+[submodule "akothari"]
+	path = akothari
+	url = https://github.com/akcarmel/sp2014.11-731.git
+[submodule "chenwan1"]
+	path = chenwan1
+	url = https://github.com/wowcecilia/sp2014.11-731.git
+[submodule "abhimank"]
+	path = abhimank
+	url = https://github.com/abhimanu/sp2014.11-731
