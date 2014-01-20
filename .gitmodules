@@ -28,3 +28,6 @@
 [submodule "mpiergal"]
 	path = mpiergal
 	url = https://github.com/MarioPiergallini/sp2014.11-731.git
+[submodule "jdoornbos"]
+	path = jdoornbos
+	url = https://github.com/jdoornbos/sp2014.11-731.git
