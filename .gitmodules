@@ -31,3 +31,6 @@
 [submodule "jdoornbos"]
 	path = jdoornbos
 	url = https://github.com/jdoornbos/sp2014.11-731.git
+[submodule "sammthomson"]
+	path = sammthomson
+	url = https://github.com/sammthomson/sp2014.11-731
