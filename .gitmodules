@@ -34,3 +34,6 @@
 [submodule "sammthomson"]
 	path = sammthomson
 	url = https://github.com/sammthomson/sp2014.11-731
+[submodule "cdyer"]
+	path = cdyer
+	url = https://github.com/redpony/sp2014.11-731
