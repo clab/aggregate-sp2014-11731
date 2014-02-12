@@ -43,3 +43,6 @@
 [submodule "HuiyingLi"]
 	path = HuiyingLi
 	url = https://github.com/HuiyingLi/sp2014.11-731
+[submodule "bdlijiwei"]
+	path = bdlijiwei
+	url = https://github.com/bdlijiwei1/sp2014.11-731
